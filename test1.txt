@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is EAFF-C380
+
+ Directory of C:\Users\ynuvvula\Desktop\MyGitProject
+
+10-03-2020  14:52    <DIR>          .
+10-03-2020  14:52    <DIR>          ..
+10-03-2020  14:52                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  359,907,762,176 bytes free
